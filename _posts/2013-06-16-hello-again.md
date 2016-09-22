@@ -2,8 +2,10 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
+splash: >-
+  https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/2549/assets/img/hack-reactor-logo.png
 title: Untitled
+tags: ''
 ---
 
 
