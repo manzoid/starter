@@ -4,7 +4,7 @@ category: blog
 published: true
 splash: >-
   https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/2549/assets/img/hack-reactor-logo.png
-title: Untitled
+title: Preppity Prep
 tags: ''
 ---
 
